@@ -1,6 +1,6 @@
 # VGG16 pré-treinada (Transfer Learning)
 
-📌 Resumo técnico:
+📌 Resumo técnico
 
 🧠 Transfer Learning em Deep Learning — Projeto DIO
 
